@@ -1,0 +1,4 @@
+
+
+This repository provides tools for analyzing sentiment in social network data. It includes scripts for data collection, preprocessing, and sentiment classification using machine learning models like Naive Bayes and LSTM. The project also features visualization tools to display sentiment trends and a web interface for real-time sentiment analysis. Clone the repo, install dependencies, and start analyzing social media sentiment right away. 
+It is dedicated to performing sentiment analysis on Twitter data. It includes scripts to collect tweets using the Twitter API, preprocess the text data, and classify sentiment using machine learning models such as Naive Bayes and LSTM. The project also offers tools to visualize sentiment trends and provides a simple web interface for real-time analysis. Get started by cloning the repo, installing the required packages, and analyzing Twitter sentiment with ease.
